@@ -3,6 +3,7 @@ import csv
 
 with open('data.csv', 'w', newline='') as csvfile:
     csvWriter = csv.writer(csvfile, delimiter=',',quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    csvWriter.writerow(["Genre", "Artist", "Title", "UniqueLinesRatio"])
     #iterate through files
     for filename in glob.iglob('data/*.txt'):
         print("### Parsing file " + filename)
@@ -31,11 +32,11 @@ with open('data.csv', 'w', newline='') as csvfile:
             #TODO: bag of words extraction
             #TODO: unique word ratio per song
             #TODO: unique word ratio per line
-            #unique lines per song ratio
-            uniqueLinesPerSongRatio = len(set(lyrics)) / len(lyrics)
+            #unique lines ratio
+            uniqueLinesRatio = len(set(lyrics)) / len(lyrics)
             #TODO: average character count per word
             #TODO: average word count per line
             #TODO: total word count
-            csvWriter.writerow([genre, artist, title, uniqueLinesPerSongRatio])
+            csvWriter.writerow([genre, artist, title, uniqueLinesRatio])
         print("### "+ str(numberOfSongs) + " songs found for "+ genre +"\n")
 

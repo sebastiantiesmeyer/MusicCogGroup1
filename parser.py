@@ -2,7 +2,7 @@ import glob
 import csv
 
 with open('data.csv', 'w', newline='') as csvfile:
-    csvWriter = csv.writer(csvfile, delimiter=';',quotechar='|', quoting=csv.QUOTE_MINIMAL)
+    csvWriter = csv.writer(csvfile, delimiter=',',quotechar='|', quoting=csv.QUOTE_MINIMAL)
     #iterate through files
     for filename in glob.iglob('data/*.txt'):
         print("### Parsing file " + filename)

@@ -6,7 +6,7 @@ Country,Tammy Wynette,He's Got The Whole World In His Hands,0.6666666666666666
 Country,Tammy Wynette,It's My Way,1.0
 Country,Tammy Wynette,Singing My Song,0.8
 Country,Tammy Wynette,He Thinks I Love Him,0.9375
-Country,Tammy Wynette,|Run, Woman, Run|,0.7058823529411765
+Country,Tammy Wynette,Run Woman Run,0.7058823529411765
 Country,Tammy Wynette,Lonely Days,0.8461538461538461
 Country,Tammy Wynette,If I Were A Little Girl,1.0
 Country,Loretta Lynn,World Of Forgotten People,1.0
@@ -35,7 +35,7 @@ Country,Dolly Parton,Blackie Kentucky,1.0
 Country,Dolly Parton,When Someone Wants To Leave,0.8181818181818182
 Country,Dolly Parton,Love With Me,0.9230769230769231
 Country,Dolly Parton,Old Black Kettle,0.9117647058823529
-Country,Dolly Parton,|Oh, He's Everywhere|,0.6470588235294118
+Country,Dolly Parton,Oh He's Everywhere,0.6470588235294118
 Country,Dolly Parton,A Lot Of You Left In Me,1.0
 Country,Dolly Parton,Book Of Life,0.7647058823529411
 Country,Dolly Parton,Something Fishy,0.8260869565217391
@@ -48,9 +48,9 @@ Country,George Jones,I've Got A New Heartache,0.6666666666666666
 Country,George Jones,Silver Dew On The Bluegrass Tonight,0.875
 Country,George Jones,Give My Love To Rose,1.0
 Country,George Jones,A Little Bitty Tear,0.8148148148148148
-Country,George Jones,|Achin', Breakin' Heart|,0.8125
+Country,George Jones,Achin' Breakin' Heart,0.8125
 Country,Johnny Cash,Rock Island Line,0.7551020408163265
-Country,Johnny Cash,|Run Softly, Blue River|,0.75
+Country,Johnny Cash,Run Softly Blue River,0.75
 Country,Johnny Cash,I Walk The Line,0.65
 Country,Johnny Cash,It Was Jesus,0.7222222222222222
 Country,Johnny Cash,Snow In His Hair,0.75
@@ -78,7 +78,7 @@ Country,Ray Charles,Deep In The Heart Of Texas,0.625
 Country,Ray Charles,Ruby,0.75
 Country,Ray Charles,The Midnight Hour,1.0
 Country,Ray Charles,That Lucky Old Sun,0.7391304347826086
-Country,Ray Charles,|Willow, Weep For Me|,0.7727272727272727
+Country,Ray Charles,Willow Weep For Me,0.7727272727272727
 Country,Merle Haggard,Falling For You,0.6666666666666666
 Country,Merle Haggard,That Makes Two Of Us,0.7058823529411765
 Country,Merle Haggard,The Longer You Wait,1.0
@@ -93,7 +93,7 @@ Country,Charlie Daniels,Ain't No Way,0.975609756097561
 Country,Charlie Daniels,Great Big Bunches Of Love,0.6
 Country,Charlie Daniels,Uneasy Rider,1.0
 Country,Charlie Daniels,Whiskey,0.6956521739130435
-Country,Charlie Daniels,|New York City, King Size Rosewood Bed|,0.7083333333333334
+Country,Charlie Daniels,New York City King Size Rosewood Bed,0.7083333333333334
 Country,Charlie Daniels,Georgia,1.0
 Country,Charlie Daniels,Evil,0.8076923076923077
 Country,Charlie Daniels,Sweetwater Texas,1.0

@@ -1,4 +1,104 @@
 Genre,Artist,Title,UniqueLinesRatio
+Country,Tammy Wynette,Don't Touch Me,0.7272727272727273
+Country,Tammy Wynette,Fuzzy Wuzzy Ego,0.8095238095238095
+Country,Tammy Wynette,D-I-V-O-R-C-E,0.8
+Country,Tammy Wynette,He's Got The Whole World In His Hands,0.6666666666666666
+Country,Tammy Wynette,It's My Way,1.0
+Country,Tammy Wynette,Singing My Song,0.8
+Country,Tammy Wynette,He Thinks I Love Him,0.9375
+Country,Tammy Wynette,|Run, Woman, Run|,0.7058823529411765
+Country,Tammy Wynette,Lonely Days,0.8461538461538461
+Country,Tammy Wynette,If I Were A Little Girl,1.0
+Country,Loretta Lynn,World Of Forgotten People,1.0
+Country,Loretta Lynn,This Haunted House,1.0
+Country,Loretta Lynn,Boy Like You,0.8461538461538461
+Country,Loretta Lynn,I Still Miss Someone,0.8571428571428571
+Country,Loretta Lynn,My Past Brought Me To You (Your Past Brought You To Me),0.9230769230769231
+Country,Loretta Lynn,In The Sweet By And By,0.75
+Country,Loretta Lynn,Sometimes You Just Can't Win,1.0
+Country,Loretta Lynn,Man I Hardly Know,0.9090909090909091
+Country,Loretta Lynn,Love Was Right Here All The Time,1.0
+Country,Loretta Lynn,Who'll Help Me Get Over You,1.0
+Country,Dixie Chicks,Tonight The Heartache's On Me,0.7272727272727273
+Country,Dixie Chicks,Hello Mr. Heartache,0.5909090909090909
+Country,Dixie Chicks,Truth No. 2,0.5909090909090909
+Country,Dixie Chicks,Silent House,0.5517241379310345
+Country,Dixie Chicks,Hole In My Head,0.5434782608695652
+Country,Dixie Chicks,Loving Arms,0.76
+Country,Dixie Chicks,Am I The Only One (Whose Ever Felt This Way),0.8
+Country,Dixie Chicks,Sin Wagon,0.9354838709677419
+Country,Dixie Chicks,I Believe In Love,0.9523809523809523
+Country,Dixie Chicks,Godspeed (Sweet Dreams),0.5172413793103449
+Country,Dolly Parton,The Seeker,0.55
+Country,Dolly Parton,I Want To Be What You Need,1.0
+Country,Dolly Parton,Blackie Kentucky,1.0
+Country,Dolly Parton,When Someone Wants To Leave,0.8181818181818182
+Country,Dolly Parton,Love With Me,0.9230769230769231
+Country,Dolly Parton,Old Black Kettle,0.9117647058823529
+Country,Dolly Parton,|Oh, He's Everywhere|,0.6470588235294118
+Country,Dolly Parton,A Lot Of You Left In Me,1.0
+Country,Dolly Parton,Book Of Life,0.7647058823529411
+Country,Dolly Parton,Something Fishy,0.8260869565217391
+Country,George Jones,Someone's Watching Over You,0.8888888888888888
+Country,George Jones,Mathew Twenty-Four,0.65
+Country,George Jones,He's So Good To Me,0.32142857142857145
+Country,George Jones,Talk To Me Lonesome Heart,0.6818181818181818
+Country,George Jones,Frozen Heart,0.8333333333333334
+Country,George Jones,I've Got A New Heartache,0.6666666666666666
+Country,George Jones,Silver Dew On The Bluegrass Tonight,0.875
+Country,George Jones,Give My Love To Rose,1.0
+Country,George Jones,A Little Bitty Tear,0.8148148148148148
+Country,George Jones,|Achin', Breakin' Heart|,0.8125
+Country,Johnny Cash,Rock Island Line,0.7551020408163265
+Country,Johnny Cash,|Run Softly, Blue River|,0.75
+Country,Johnny Cash,I Walk The Line,0.65
+Country,Johnny Cash,It Was Jesus,0.7222222222222222
+Country,Johnny Cash,Snow In His Hair,0.75
+Country,Johnny Cash,Boss Jack,1.0
+Country,Johnny Cash,Time Changes Everything,0.8333333333333334
+Country,Johnny Cash,Home Of The Blues,0.6538461538461539
+Country,Johnny Cash,I Got Shoes,0.7916666666666666
+Country,Johnny Cash,I Won't Have To Cross Jordan Alone,0.9285714285714286
+Country,Hank Williams,Pan American,0.7894736842105263
+Country,Hank Williams,Six More Miles (To The Graveyard),0.75
+Country,Hank Williams,The Blues Come Around,0.5625
+Country,Hank Williams,Everything's Okay,0.8181818181818182
+Country,Hank Williams,Dear John,0.6944444444444444
+Country,Hank Williams,I'm So Lonesome I Could Cry,0.875
+Country,Hank Williams,Let's Turn Back The Years,1.0
+Country,Hank Williams,I Told A Lie To My Heart,0.5625
+Country,Hank Williams,Rock My Cradle Once Again,0.6666666666666666
+Country,Hank Williams,Freight Train Blues,0.7777777777777778
+Country,Ray Charles,Sinner's Prayer,0.6923076923076923
+Country,Ray Charles,Doodlin',1.0
+Country,Ray Charles,Yes Indeed,0.8
+Country,Ray Charles,What'd I Say,0.8208955223880597
+Country,Ray Charles,You Won't Let Me Go,1.0
+Country,Ray Charles,Deep In The Heart Of Texas,0.625
+Country,Ray Charles,Ruby,0.75
+Country,Ray Charles,The Midnight Hour,1.0
+Country,Ray Charles,That Lucky Old Sun,0.7391304347826086
+Country,Ray Charles,|Willow, Weep For Me|,0.7727272727272727
+Country,Merle Haggard,Falling For You,0.6666666666666666
+Country,Merle Haggard,That Makes Two Of Us,0.7058823529411765
+Country,Merle Haggard,The Longer You Wait,1.0
+Country,Merle Haggard,Skid Row,0.75
+Country,Merle Haggard,I Made The Prison Band,0.6666666666666666
+Country,Merle Haggard,Wine Take Me Away,0.6470588235294118
+Country,Merle Haggard,My Ramona,0.85
+Country,Merle Haggard,Run 'Em Off,0.78125
+Country,Merle Haggard,I'm Free,0.85
+Country,Merle Haggard,Waitin' For A Train,0.78125
+Country,Charlie Daniels,Ain't No Way,0.975609756097561
+Country,Charlie Daniels,Great Big Bunches Of Love,0.6
+Country,Charlie Daniels,Uneasy Rider,1.0
+Country,Charlie Daniels,Whiskey,0.6956521739130435
+Country,Charlie Daniels,|New York City, King Size Rosewood Bed|,0.7083333333333334
+Country,Charlie Daniels,Georgia,1.0
+Country,Charlie Daniels,Evil,0.8076923076923077
+Country,Charlie Daniels,Sweetwater Texas,1.0
+Country,Charlie Daniels,Redneck Fiddlin' Man,0.9310344827586207
+Country,Charlie Daniels,Passing Lane,0.8275862068965517
 EDM,Scooter,How Much Is The Fish?,0.6511627906976745
 EDM,Scooter,The Logical Song,0.532258064516129
 EDM,Scooter,Maria,0.8
@@ -19,3 +119,183 @@ EDM,Basshunter,Angel In The Night,0.6410256410256411
 EDM,Basshunter,Love You More,0.3333333333333333
 EDM,Basshunter,Dream Girl,0.39215686274509803
 EDM,Basshunter,Bass Creator,0.4857142857142857
+EDM,Calvin Harris,My Way,0.18867924528301888
+EDM,Calvin Harris,This Is What You Came For,0.2549019607843137
+EDM,Calvin Harris,Summer,0.42857142857142855
+EDM,Calvin Harris,How Deep Is Your Love,0.3953488372093023
+EDM,Calvin Harris,Blame,0.4186046511627907
+EDM,Calvin Harris,Sweet Nothing,0.6
+EDM,Calvin Harris,Outside,0.5116279069767442
+EDM,Calvin Harris,Feel So Close,0.3125
+EDM,Calvin Harris,Thinking About You,0.65
+EDM,Calvin Harris,Under Control,0.3870967741935484
+EDM,David Guetta,Sexy Chick,0.3333333333333333
+EDM,David Guetta,Lovers On The Sun,0.6551724137931034
+EDM,David Guetta,Dangerous,0.4583333333333333
+EDM,David Guetta,Bad,0.42857142857142855
+EDM,David Guetta,Hey Mama,0.5915492957746479
+EDM,David Guetta,Play Hard,0.4126984126984127
+EDM,David Guetta,Shed A Light,0.5454545454545454
+EDM,David Guetta,Would I Lie To You?,0.25806451612903225
+EDM,David Guetta,Memories,0.19444444444444445
+EDM,David Guetta,This One's For You,0.7931034482758621
+EDM,The Prodigy,Take Me To The Hospital,0.24390243902439024
+EDM,The Prodigy,Warrior's Dance,0.358974358974359
+EDM,The Prodigy,Voodoo People,0.4166666666666667
+EDM,The Prodigy,Spitfire,0.14814814814814814
+EDM,The Prodigy,Baby's Got Temper,0.5
+EDM,The Prodigy,No Good,0.06666666666666667
+EDM,The Prodigy,Out Of Space,0.26666666666666666
+EDM,The Prodigy,Breathe,0.25
+EDM,The Prodigy,Firestarter,0.7142857142857143
+EDM,The Prodigy,Omen,0.6
+EDM,Avicii,The Nights,0.6944444444444444
+EDM,Avicii,Silhouettes,0.5416666666666666
+EDM,Avicii,I Could Be The One,0.35714285714285715
+EDM,Avicii,My Feelings For You,0.15384615384615385
+EDM,Avicii,Dear Boy,0.5833333333333334
+EDM,Avicii,Dancing In My Head,0.5833333333333334
+EDM,Avicii,Blessed,0.5925925925925926
+EDM,Avicii,Levels,0.375
+EDM,Avicii,Hey Brother,0.4166666666666667
+EDM,Avicii,Wake Me Up,0.525
+EDM,Tiesto,In My Memory,0.5882352941176471
+EDM,Tiesto,Battleship Grey,0.8
+EDM,Tiesto,Suburban Train,0.9
+EDM,Tiesto,On My Way,0.37142857142857144
+EDM,Tiesto,The Feeling,0.48
+EDM,Tiesto,Written In Reverse,0.4444444444444444
+EDM,Tiesto,Who Wants To Be Alone,0.45161290322580644
+EDM,Tiesto,I Am Strong,0.5737704918032787
+EDM,Tiesto,Sweet Things,0.7
+EDM,Tiesto,Just Be,0.7560975609756098
+EDM,Cascada,Everytime We Touch,0.5666666666666667
+EDM,Cascada,Miracle,0.4897959183673469
+EDM,Cascada,Because The Night,0.53125
+EDM,Cascada,He's All That,0.4423076923076923
+EDM,Cascada,Everytime I Hear Your Name,0.5757575757575758
+EDM,Cascada,Wouldn't It Be Good,0.71875
+EDM,Cascada,Unspoken,0.7474747474747475
+EDM,Cascada,Stalker,0.5569620253164557
+EDM,Cascada,Reason,0.8095238095238095
+EDM,Cascada,Shut Up,0.625
+EDM,Benny Benassi,Satisfaction,0.23076923076923078
+EDM,Benny Benassi,Cinema,0.5531914893617021
+EDM,Benny Benassi,Illusion,0.7446808510638298
+EDM,Benny Benassi,California Dreaming,0.5263157894736842
+EDM,Benny Benassi,Carousel,0.6666666666666666
+EDM,Benny Benassi,Paradise,0.7272727272727273
+EDM,Benny Benassi,Spaceship,0.3968253968253968
+EDM,Benny Benassi,Good Girl,0.5
+EDM,Benny Benassi,Put Your Hands Up,0.9130434782608695
+EDM,Benny Benassi,Every Single Day,0.53125
+EDM,Martin Garrix,Rewind Repeat It,0.6486486486486487
+EDM,Martin Garrix,Waiting For Love,0.7
+EDM,Martin Garrix,Waiting For Tomorrow,0.7391304347826086
+EDM,Martin Garrix,Gold Skies,0.13636363636363635
+EDM,Martin Garrix,Animals,0.5
+EDM,Martin Garrix,Tremor,0.3333333333333333
+EDM,Martin Garrix,Don't Look Down,0.5294117647058824
+EDM,Martin Garrix,Lions In The Wild,0.5454545454545454
+EDM,Martin Garrix,Scared To Be Lonely,0.5370370370370371
+EDM,Martin Garrix,Sun Is Never Going Down,0.6785714285714286
+Metal,Autopsy,Gasping for Air,0.9444444444444444
+Metal,Autopsy,Ridden with Disease,0.6666666666666666
+Metal,Autopsy,Slaughterday,1.0
+Metal,Autopsy,Hole in the Head,1.0
+Metal,Autopsy,Skullptures,1.0
+Metal,Autopsy,Tortured moans of agony,1.0
+Metal,Autopsy,Deliver me from sanity,0.8333333333333334
+Metal,Autopsy,Bridge of Bones,1.0
+Metal,Autopsy,Feast of the Graveworm,0.7777777777777778
+Metal,Autopsy,Keeper of Decay,1.0
+Metal,Vader,The Wrath,1.0
+Metal,Vader,Black Sabbath,1.0
+Metal,Vader,The Crucified Ones,0.9428571428571428
+Metal,Vader,Final Massacre,0.6666666666666666
+Metal,Vader,Carnal,1.0
+Metal,Vader,Foetus God,0.8
+Metal,Vader,Xeper,0.6666666666666666
+Metal,Vader,Litany,1.0
+Metal,Vader,The Nomad,1.0
+Metal,Vader,The Sea came in at last,0.9375
+Metal,Carcass,Fermenting Innards,1.0
+Metal,Carcass,Feast on dismembered carnage,1.0
+Metal,Carcass,Heartwork,0.92
+Metal,Carcass,Embodiment,0.9166666666666666
+Metal,Carcass,Ever Increasing Circles,0.525
+Metal,Carcass,Tools of the trade,1.0
+Metal,Carcass,Pyosisified,1.0
+Metal,Carcass,Emotional Flatline,0.7619047619047619
+Metal,Carcass,The master butcher's apron,0.8541666666666666
+Metal,Carcass,Unfit for Human Consumption,0.9090909090909091
+Metal,Gorguts,Inflicted Maturity,1.0
+Metal,Gorguts,Metempsukhosis,1.0
+Metal,Gorguts,Considered Dead,1.0
+Metal,Gorguts,Rottenatomy,1.0
+Metal,Gorguts,The Erosion of Sanity,1.0
+Metal,Gorguts,Orphans of sickness,0.75
+Metal,Gorguts,Nostalgia,0.8387096774193549
+Metal,Gorguts,Clouded,0.8181818181818182
+Metal,Gorguts,Colored Sands,0.92
+Metal,Gorguts,Enemies of Compassion,0.9655172413793104
+Metal,Bolt Thrower,Concessions of pain,0.7307692307692307
+Metal,Bolt Thrower,Forgotten Existence,0.8529411764705882
+Metal,Bolt Thrower,Dark Millennium,1.0
+Metal,Bolt Thrower,Lost Souls Domain,0.9629629629629629
+Metal,Bolt Thrower,Psychological Warfare,1.0
+Metal,Bolt Thrower,In battle there is no law,0.7647058823529411
+Metal,Bolt Thrower,What dwells within,1.0
+Metal,Bolt Thrower,Profane Creation,0.7586206896551724
+Metal,Bolt Thrower,As the World Burns,1.0
+Metal,Bolt Thrower,Graven Image,0.96
+Metal,Immolation,Those Left Behind,0.9714285714285714
+Metal,Immolation,Internal Decadence,0.8666666666666667
+Metal,Immolation,Rigor mortis,1.0
+Metal,Immolation,Relentless Torment,1.0
+Metal,Immolation,Here in After,0.9459459459459459
+Metal,Immolation,I Feel Nothing,1.0
+Metal,Immolation,Failures for Gods,0.9210526315789473
+Metal,Immolation,Unsaved,1.0
+Metal,Immolation,Furthest From The Truth,0.7777777777777778
+Metal,Immolation,Fall From a High Place,1.0
+Metal,Suffocation,Seeds of the suffering,0.9259259259259259
+Metal,Suffocation,Habitual Infamy,1.0
+Metal,Suffocation,Mass Obliteration,1.0
+Metal,Suffocation,Catatonia,0.8947368421052632
+Metal,Suffocation,Depths Of Depravity,1.0
+Metal,Suffocation,Suspended in Tribulation,0.9459459459459459
+Metal,Suffocation,Devoid Of Truth,0.9047619047619048
+Metal,Suffocation,Despise the Sun,0.5757575757575758
+Metal,Suffocation,Souls to Deny,0.8666666666666667
+Metal,Suffocation,Surgery of Impalement,0.8
+Metal,Morbid Angel,Maze of Torment,0.7419354838709677
+Metal,Morbid Angel,Bleed for the Devil,0.6666666666666666
+Metal,Morbid Angel,Abomination,1.0
+Metal,Morbid Angel,Angel of Disease,1.0
+Metal,Morbid Angel,Thy Kingdom Come,0.6470588235294118
+Metal,Morbid Angel,Brainstorm,0.8
+Metal,Morbid Angel,Curse The Flesh,0.7916666666666666
+Metal,Morbid Angel,Praise The Strength,0.7674418604651163
+Metal,Morbid Angel,At One With Nothing,1.0
+Metal,Morbid Angel,Opening of the Gates,1.0
+Metal,Cannibal Corpse,Born In a Casket,0.84
+Metal,Cannibal Corpse,Rotting Head,0.9545454545454546
+Metal,Cannibal Corpse,Rancid Amputation,1.0
+Metal,Cannibal Corpse,Innards Decay,0.9629629629629629
+Metal,Cannibal Corpse,Absolute Hatred,0.9565217391304348
+Metal,Cannibal Corpse,Eaten From Inside,0.9310344827586207
+Metal,Cannibal Corpse,Ecstacy in Decay,0.7391304347826086
+Metal,Cannibal Corpse,Coffinfeeder,0.8297872340425532
+Metal,Cannibal Corpse,The Wretched Spawn,0.8888888888888888
+Metal,Cannibal Corpse,Cyanide Assassin,0.9534883720930233
+Metal,Death,Denial of Life,0.7333333333333333
+Metal,Death,Regurgitated Guts,0.8214285714285714
+Metal,Death,Defensive Personalities,0.75
+Metal,Death,Within The Mind,0.7307692307692307
+Metal,Death,Secret Face,0.8695652173913043
+Metal,Death,Lack of Comprehension,0.7
+Metal,Death,Nothing is Everything,0.875
+Metal,Death,Mentally Blind,0.7083333333333334
+Metal,Death,Sacred Serenity,0.6666666666666666
+Metal,Death,Without Judgement,0.6428571428571429

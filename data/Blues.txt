@@ -1,7 +1,5 @@
-\\Artists: BB King, Muddy Waters, Robert Johnson, Howlin' Wolf, John Lee Hooker, Buddy Guy, Freddie King, Albert King, Lightnin' Hopkins
-
-##B.B. King
-##The Thrill is Gone
+###B.B. King
+###The Thrill is Gone
 The thrill is gone
 
 The thrill is gone away
@@ -31,8 +29,8 @@ I'm free from your spell
 And now that it's all over
 All I can do is wish you well
 
-##B.B. King
-##Three O'Clock Blues
+###B.B. King
+###Three O'Clock Blues
 Now here it is three o' clock in the mornin'
 Can't even close my eyes
 Oh, three o' clock in the mornin', baby
@@ -59,8 +57,8 @@ Lord, I believe this is the end
 Well, you can tell my baby
 To forgive me for my sins
 
-##B.B. King
-##Rock Me Baby
+###B.B. King
+###Rock Me Baby
 Rock me baby, rock me all night long
 Rock me baby, honey, rock me all night long
 I want you to rock me baby,
@@ -76,8 +74,8 @@ Yeah, rock me pretty baby, baby rock me slow
 Want you to rock me baby,
 till I want no more
 
-##B.B. King
-##Everyday I Have The Blues
+###B.B. King
+###Everyday I Have The Blues
 Everyday
 Everyday I have the blues
 Everyday
@@ -99,8 +97,8 @@ Every day, everyday I have the blues
 Every day, everyday I have the blues 
 When you see me worryin' woman, baby, it's you I hate to lose
 
-##B.B.King
-##Let The Good Times Roll
+###B.B.King
+###Let The Good Times Roll
 Hey, everybody, let's have some fun
 You only live but once
 And when you're dead you're done, so
@@ -139,8 +137,8 @@ Birds of a feather gotta stick together
 So get yourself under control
 Go out and get together and let the good times roll
 
-##B.B. King
-##Paying the Cost To Be The Boss
+###B.B. King
+###Paying the Cost To Be The Boss
 You act like you don't want to listen
 When I'm talking to you
 You think you outta do baby
@@ -176,8 +174,8 @@ You must be outta your mind
 As long as I'm payin' the bills woman
 I'm payin' the cost to be the boss
 
-##B.B. King
-##You Upset Me Baby
+###B.B. King
+###You Upset Me Baby
 Yes, she's thirty-six in the bust, twenty-eight in the waist
 Forty-four in the hip, she got real crazy legs
 You upset me baby, yes, you upset me baby
@@ -202,8 +200,8 @@ You upset me baby, yes, you upset me baby
 Well, like being hit by a fallen tree
 Woman, what you do to me
 
-##B.B. King
-##Sweet Sixteen
+###B.B. King
+###Sweet Sixteen
 When I first met you, baby
 Baby, you were just sweet sixteen
 When I first met you, baby
@@ -257,8 +255,8 @@ Yes I wonder
 Baby I wonder
 Oh, I wonder what in the world's gonna happen to me
 
-##B.B. King
-##Don't Answer The Door
+###B.B. King
+###Don't Answer The Door
 Woman, I don't wanna a soul
 Hangin' around my house when I'm not at home
 
@@ -297,8 +295,8 @@ Hangin' around my house when I'm not at home
 Yes, I don't want you to open the door for nobody, baby
 Yeah, when you're home all alone
 
-##B.B. King
-##Why I Sing the Blues
+###B.B. King
+###Why I Sing the Blues
 Everybody wants to know
 Why I sing the blues
 Yes, I say everybody wanna know
@@ -411,8 +409,8 @@ Fellows, tell them one more time.
 Ha, ha, ha. That's all right, fellows.
 Yeah!
 
-##Muddy Waters
-##Long Distance Call
+###Muddy Waters
+###Long Distance Call
 You say you love me, darling
 Please, call me on the phone sometime
 You say you love me, darling
@@ -434,8 +432,8 @@ Sound like a long-distance call
 When I picked up my receiver
 The party said "another mule kicking in your stall"
 
-##Muddy Waters
-##Mannish Boy
+###Muddy Waters
+###Mannish Boy
 Ooh, yeah, ooh, yeah
 
 Everythin', everythin', everytin's gonna be alright this mornin'
@@ -508,8 +506,8 @@ Well, well, well, well
 
 Yeah
 
-##Muddy Waters
-##I Am Your Hoochie Coochie Man
+###Muddy Waters
+###I Am Your Hoochie Coochie Man
 The gypsy woman told my mother 
 Before I was born 
 I got a boy child's comin' 
@@ -557,8 +555,8 @@ Everybody knows I'm him
 Well you know I'm the hoochie coochie man 
 Everybody knows I'm him
 
-##Muddy Waters
-##Rollin' And Tumblin'
+###Muddy Waters
+###Rollin' And Tumblin'
 Rollin' And Tumblin'
 
 Well, I rolled and I tumbled, cried the whole night long
@@ -580,8 +578,8 @@ Well, I could a had a religion, this bad old thing instead
 Well, I could a had a religion, this bad old thing instead
 Well, all whiskey and women, would not let me pray
 
-##Muddy Waters
-##My Home Is The Delta
+###Muddy Waters
+###My Home Is The Delta
 Well, my home's in the delta
 Way out on that farmer's road
 Now you know I'm leaving Chicago
@@ -612,8 +610,8 @@ Hm-mm-mm
 Ah, you know I just been sittin' here thinkin'
 Wondering where in the world she been
 
-##Muddy Waters
-##Rolling Stone
+###Muddy Waters
+###Rolling Stone
 Well, I wish I was a catfish,
 Swimmin in a oh, deep, blue sea
 I would have all you good lookin women,
@@ -648,8 +646,8 @@ Back down the road I'm goin'
 Back down the road I'm goin'
 Sure 'nough back, sure 'nough back
 
-##Muddy Waters
-##Trouble No More
+###Muddy Waters
+###Trouble No More
 Don't care how long you gone
 I don't care how long you staying
 But, good kind treatment
@@ -685,8 +683,8 @@ You can have a man
 But someday baby
 You ain't gonna trouble poor me anymore
 
-##Muddy Waters
-##Forty Days and Forty Nights
+###Muddy Waters
+###Forty Days and Forty Nights
 Forty days and forty nights
 Since my baby left this town
 Sunshinin' all day long
@@ -715,8 +713,8 @@ That she would come back-a home to me
 Life is love and love is right
 I hope she come back home tonight
 
-##Muddy Waters
-##Louisana Blues
+###Muddy Waters
+###Louisana Blues
 m goin' down in Louisiana,
 Baby, behind the sun.
 I'm goin' down in Louisiana,
@@ -724,8 +722,8 @@ Baby, behind the sun.
 Well, you know I just found out
 My trouble just begun.
 
-##Muddy Waters
-##Still A Fool
+###Muddy Waters
+###Still A Fool
 Well, now, there's two, there's two trains running
 Well, they ain't never, no, going my way
 Well, now, one run at midnight and the other one
@@ -760,8 +758,8 @@ She's all right with me
 She's all right, she's all right
 She's all right, she's all right
 
-##Robert Johnson
-##Cross Road Blues
+###Robert Johnson
+###Cross Road Blues
 Went to the crossroad, fell down on my knees
 I went to the crossroad, fell down on my knees
 Asked the Lord above "Have mercy, now save poor Bob, if you please"
@@ -782,8 +780,8 @@ And I went to the crossroad, mama, I looked east and west
 I went to the crossroad, baby, I looked east and west
 Lord, I didn't have no sweet woman, ooh well, babe, in my distress
 
-##Robert Johnson
-##Kindhearted Woman Blues
+###Robert Johnson
+###Kindhearted Woman Blues
 I got a kindhearted woman, do anything in this world for me
 I got a kindhearted woman, do anything in this world for me
 But these evil-hearted women, man, they will not let me be
@@ -801,8 +799,8 @@ She's a kindhearted woman, she studies evil all the time
 She's a kindhearted woman, she studies evil all the time
 You well's to kill me, as to have it on your mind
 
-##Robert Johnson
-##Hell Hound On My Trail
+###Robert Johnson
+###Hell Hound On My Trail
  got to keep movin', I got to keep movin'
 Blues fallin' down like hail, blues fallin' down like hail
 Hmmm-mmm, blues fallin' down like hail, blues fallin' down like hail
@@ -837,8 +835,8 @@ All I need's my little sweet woman
 And to keep my company, hey, hey, hey
 My company
 
-##Robert Johnson
-##Love In Vain
+###Robert Johnson
+###Love In Vain
 And I followed her to the station, with her suitcase in my hand,
 And I followed her to the station, with her suitcase in my hand.
 Well, it's hard to tell, it's hard to tell, when all your love's in vain,
@@ -856,8 +854,8 @@ All my love's in vain.
 
 Uumh, Willie Mae, Uumh, Willie Mae, Uumh uumh, all my love's in vain.
 
-##Robert Johnson
-##Come On In My Kitchen
+###Robert Johnson
+###Come On In My Kitchen
 Mmm-mmm-mmm-mmm-mmm-mmm-mmm-mmm-mmm-mmm
 Mmm-mmm-mmm-mmm-mmm-mmm-mmm-mmm-mmm-mmm
 
@@ -887,8 +885,8 @@ Wintertime's comin', it's gon' be slow
 You can't make the winter, babe, that's dry, long, so
 You better come on in my kitchen, 'cause it's goin' to be rainin' outdoors
 
-##Robert Johnson
-##Me And The Devil Blues
+###Robert Johnson
+###Me And The Devil Blues
 Early this morning
 When you knocked upon my door
 Early this morning, ooh
@@ -919,8 +917,8 @@ Down by the highway side
 So my old evil spirit
 Can get a Greyhound bus and ride
 
-##Robert Johnson
-##Ramblin' On My Mind
+###Robert Johnson
+###Ramblin' On My Mind
 I got ramblin', I got ramblin' on my mind
 I got ramblin', I got ramblin' all on my mind
 Hate to leave my baby, but you treats me so unkind
@@ -938,8 +936,8 @@ And I'm leavin' this mornin', with my arm' fold' up and cryin'
 And I'm leavin' this mornin', with my arm' fold' up and cryin'
 Hate to leave my baby, but she treats me so unkind
 
-##Robert Johnson
-##Terraplane Blues
+###Robert Johnson
+###Terraplane Blues
 And I feel so lonesome, you hear me when I moan
 And I feel so lonesome, you hear me when I moan
 Who been drivin' my Terraplane for you since I been gone?
@@ -970,8 +968,8 @@ I'm gon' get down in this connection, keep on tanglin' with your wires
 I'm gon' get down in this connection, oh well, keep on tanglin' with these wires
 And when I mash down on your little starter, then your sparkplug will give me fire
 
-##Robert Johnson
-##Drunken Hearted Man
+###Robert Johnson
+###Drunken Hearted Man
 I’m a drunken hearted man
 my life seem so misery
 I’m the drunken hearted man
@@ -1000,8 +998,8 @@ and sin was the cause of it all
 And the day that you get weak for no-good women
 that’s the day that you bound to fall
 
-##Robert Johnson
-##Last Fair
+###Robert Johnson
+###Last Fair
 It's the last fair deal goin' down, 
 last fair deal goin' down
 It's the last fair deal goin' down, good Lord,
@@ -1042,8 +1040,8 @@ That thing don't keep ringin' so soon
 And that thing don't keep ringin' so soon, good Lord, 
 on that Gulfed-and-Port Island Road
 
-##Howlin’ Wolf
-##Spoonful
+###Howlin’ Wolf
+###Spoonful
 It could be a spoonful of coffee
 It could be a spoonful of tea
 But one little spoon of your precious love
@@ -1079,8 +1077,8 @@ That spoon, that spoon, that spoonful
 That spoon, that spoon, that spoonful
 That spoon, that spoon, that spoonful
 
-##Howlin’ Wolf
-##Smokestack Lightnin'
+###Howlin’ Wolf
+###Smokestack Lightnin'
 Ah-oh, smokestack lightnin'
 Shinin', just like gold
 Why don't ya hear me cryin'?
@@ -1112,8 +1110,8 @@ Girl, be on
 A-whoo-hooo, whoo-hooo
 Whooo
 
-##Howlin’ Wolf
-##The Red Rooster
+###Howlin’ Wolf
+###The Red Rooster
 Well, I got a little red rooster
 Too lazy to crow for day
 Well, I got a little red rooster
@@ -1144,8 +1142,8 @@ Too lazy to crow for day
 Keep everything in the barnyard
 Upset in every way
 
-##Howlin’ Wolf
-##I Asked For Water
+###Howlin’ Wolf
+###I Asked For Water
 Oh, I asked her for water, oh, she brought me gasoline
 Oh, I asked her for water, oh, she brought me gasoline
 That's the troublingest woman
@@ -1161,8 +1159,8 @@ Oh, tell me baby, oh, when are you coming back home?
 You know I love you, baby
 But you've been gone too long
 
-##Howlin’ Wolf
-##Back Door Man
+###Howlin’ Wolf
+###Back Door Man
 I am, a back door man
 I am, a back door man
 Well the, men don't know, but the little girls understand
@@ -1191,8 +1189,8 @@ Six feets in the ground
 When you come home you can eat, pork and beans
 I eats mo' chicken, any man seen
 
-##Howlin’ Wolf
-##Wang Dang Doodle
+###Howlin’ Wolf
+###Wang Dang Doodle
  ell Automatic Slim , tell Razor Totin' Jim
 Tell Butcher Knife Totin' Annie, tell Fast Talking Fanny
 A we gonna pitch a ball, a down to that union hall
@@ -1216,8 +1214,8 @@ When the fish scent fill the air, there'll be snuff juice everywhere
 We gonna pitch a wang dang doodle all night long
 All night long, All night long, All night long
 
-##Howlin’ Wolf
-##How Many More Years
+###Howlin’ Wolf
+###How Many More Years
 How many more years?
 Have I got to let you dog me around
 How many more years?
@@ -1239,8 +1237,8 @@ I'm gonna bring back down my clothes, do them all
 If anybody ask about me
 Just tell 'em I walked out on
 
-##Howlin’ Wolf
-##Goin' Down Slow
+###Howlin’ Wolf
+###Goin' Down Slow
 Man
 You know I done enjoyed things that kings and queens will never have
 In fact, kings and queens can never get
@@ -1268,8 +1266,8 @@ Tell her the shape I'm in
 Tell her to pray for, oh
 Forgive me for my sins
 
-##Howlin’ Wolf
-##Moanin' At Midnight
+###Howlin’ Wolf
+###Moanin' At Midnight
 Well, somebody knocking on my door
 Well, somebody knocking on my door
 Well, I'm so worried, don't know where to go
@@ -1280,8 +1278,8 @@ Well, keep on calling, tell them I'm not at home
 
 Well, don't not worry, Daddy has gone to bed
 
-##Howlin’ Wolf
-##Shake For Me
+###Howlin’ Wolf
+###Shake For Me
 Sure look good, but it don't mean a thing to me
 Sure look good, but it don't mean a thing to me
 I got a hip-shaking woman, shake like a willow tree
@@ -1299,8 +1297,8 @@ Oh, shake lil' baby, shake it for me
 Oh, shake it little baby, shake like a willow tree
 
 
-##John Lee Hooker
-##Boogie Chillen'
+###John Lee Hooker
+###Boogie Chillen'
 Well, my mama, she didn't 'low me just to stay out all night long, oh Lord
 Well, my mama didn't 'low me just to stay out all night long
 I didn't care what she didn't 'low--I would boogie-woogie anyhow
@@ -1320,8 +1318,8 @@ It's in him and it got to come out
 And I felt so good
 Went on boogiein' just the same
 
-##John Lee Hooker
-##Crawlin' King Snake
+###John Lee Hooker
+###Crawlin' King Snake
 You know I'm a crawlin' king snake, baby, and I rules my den
 You know I'm a crawlin' king snake, baby, and I rules my den
 I don't want you hangin' around my mate; wanna use her for myself
@@ -1340,8 +1338,8 @@ You know you caught me crawlin', baby, when the, when the grass was very high
 I'm just gonna keep on crawlin' now, baby, until the day I die
 Because I'm a crawlin' king snake, baby, and I rules my den
 
-##John Lee Hooker
-##Dimples
+###John Lee Hooker
+###Dimples
 I love the way you walk
 I love the way you walk
 I'm crazy 'bout your walk
@@ -1367,8 +1365,8 @@ Well, I see you every day
 Well, I see you every day
 You my babe I got my eyes on you
 
-##John Lee Hooker
-##I'm In The Mood
+###John Lee Hooker
+###I'm In The Mood
 I'm in the mood baby, I'm in the mood for love
 I'm in the mood baby, I'm in the mood for love
 I'm in the mood, I'm in the mood, baby, I'm in the mood for love
@@ -1381,8 +1379,8 @@ But my mama didn't know, God know, girl was puttin' down
 I'm in the mood, I'm in the mood baby, in the mood for love
 I'm in the mood, I'm in the mood, baby, in the mood for love
 
-##John Lee Hooker
-##One Bourbon, One Scotch, One Beer
+###John Lee Hooker
+###One Bourbon, One Scotch, One Beer
 One bourbon, one scotch, and one beer
 One bourbon, one scotch, and one beer
 Hey, mister bartender, come here
@@ -1417,8 +1415,8 @@ One bourbon, one scotch, and one beer
 One bourbon, one scotch, and one beer
 One bourbon, one scotch, and one beer
 
-##John Lee Hooker
-##Hobo Blues
+###John Lee Hooker
+###Hobo Blues
 When I first thought to hobo'in, hobo'in
 I took a freight train to be my friend, oh Lord
 You know I hoboed, hoboed, hoboed, hoboed
@@ -1434,8 +1432,8 @@ I left my honor, need a crime, oh Lord
 Take care of my child
 Take care, take care of my child
 
-##John Lee Hooker
-##One Of These Days Things Gonna Change
+###John Lee Hooker
+###One Of These Days Things Gonna Change
 One of these days,
 Things gonna change
 One of these days
@@ -1480,8 +1478,8 @@ Things gonna change
 Things gonna change change change change
 Things gonna change
 
-##John Lee Hooker
-##Baby Lee
+###John Lee Hooker
+###Baby Lee
 Baby Lee, don't do me like you do
 Baby Lee, don't do me like you do
 I love you, baby; you never treat me right
@@ -1498,8 +1496,8 @@ Baby Lee, you know you ain't treat me right
 Baby Lee, you know you ain't treat me right
 You take all my money, wanna treat me like a child
 
-##John Lee Hooker
-##Burnin' Hell
+###John Lee Hooker
+###Burnin' Hell
 Everybody talk about it 
 Burning Hell 
 Ain't no heaven, I know 
@@ -1537,8 +1535,8 @@ I don't believe, I don't believe in no heaven
 I don't believe in no hell
 When I die, where I go, nobody know
 
-##John Lee Hooker
-##Whiskey and Wimmen'
+###John Lee Hooker
+###Whiskey and Wimmen'
 Whiskey and wimmen almost wrecked my life
 Whiskey and wimmen almost wrecked my life
 Were'nt for whiskey and wimmin, I'd have money today
@@ -1552,8 +1550,8 @@ Whiskey and wimmen ain't no good, ain't no good for me
 I had a lot of money and big fine car, but I lost everything I had
 Aww I did
 
-##Buddy Guy
-##First Time I Met The Blues
+###Buddy Guy
+###First Time I Met The Blues
 The first time I met the blues
 People, you know I was walkin', I was walkin' down through the woods
 Yes, the first time, the first time I met you, blues
@@ -1576,8 +1574,8 @@ Yes, you know you'll be with me every mornin', blues
 Every night and every noon
 Oh, yeah
 
-##Buddy Guy
-##Damn Right I've Got the Blues
+###Buddy Guy
+###Damn Right I've Got the Blues
 You damn right, I've got the blues,
 From my head down to my shoes
 You damn right, I've got the blues,
@@ -1610,8 +1608,8 @@ You damn right, I've got the blues,
 You damn right, I've got the blues,
 Yeah
 
-##Buddy Guy
-##Stone Crazy
+###Buddy Guy
+###Stone Crazy
 Woman you must be stone down crazy
 Either you're going to lose your mind
 Yes I said baby you must be stone crazy
@@ -1660,8 +1658,8 @@ People where the weather suits my clothes
 Yes you know that I've played around in these big cities so long man
 Oh, 'till I'm almost done froze
 
-##Buddy Guy
-##Ain't No Sunshine
+###Buddy Guy
+###Ain't No Sunshine
 Ain't no sunshine when she gone
 It's not warm when she's away
 Ain't no sunshine when she's gone
@@ -1703,8 +1701,8 @@ Anytime she goes away
 Anytime she goes away
 Anytime she goes away
 
-##Buddy Guy
-##Feels Like Rain
+###Buddy Guy
+###Feels Like Rain
 Down here the river, meets the sea
 And in the sticky heat I feel ya' open up to me
 Love comes out of nowhere baby, just like a hurricane
@@ -1734,8 +1732,8 @@ Let it wash away the pain
 And it feels like rain
 And it feels like rain
 
-##Buddy Guy
-##Wear You Out
+###Buddy Guy
+###Wear You Out
 I had a '54 Stratocaster
 They said it wouldn't last me my whole life
 I ripped and tore and banged that thing
@@ -1777,8 +1775,8 @@ I'm gonna wear you out
 It's going down
 Until I wear you out
 
-##Buddy Guy
-##Key Don't Fit
+###Buddy Guy
+###Key Don't Fit
 My key don't fit your lock
 When I come to your door
 No, I said, my key won't fit your lock
@@ -1807,8 +1805,8 @@ When I try to walk it in your door
 I got this funny, funny feeling
 You don't want me around no more
 
-##Buddy Guy
-##One Room Country Shack
+###Buddy Guy
+###One Room Country Shack
 Sittin' here, thousand miles from nowhere
 People, I'm in my one room country little shack
 I'm sittin' here, thousand miles from nowhere
@@ -1852,8 +1850,8 @@ So, so many ways you can get the blues
 Yes, when you're down here on one of these cotton fields
 Lord, you ain't got nothing to lose
 
-##Buddy Guy
-##My Time After A While
+###Buddy Guy
+###My Time After A While
 It's your time now baby
 Ohh but it's gonna be mine after awhile
 I said it's your time right now baby
@@ -1891,8 +1889,8 @@ But every every dog got his day wow
 Somebody better come here and get me baby
 I just want to talk to my baby
 
-##Buddy Guy
-##Every Girl I See
+###Buddy Guy
+###Every Girl I See
 You look good and you look good
 You look good and you look good
 
@@ -1932,8 +1930,8 @@ You all look lovely, pretty little thing
 Every girl I see are looking good to me
 Every girl I see are looking good to me
 
-##Freddie King
-##Hide Away
+###Freddie King
+###Hide Away
 I don't want you to be no slave
 I don't want you to work all day
 I don't want your money too
@@ -1980,8 +1978,8 @@ Let me make love to you
 Let me make love to you
 Let me make love to you
 
-##Freddie King
-##Big Legged Woman
+###Freddie King
+###Big Legged Woman
 I love the tip, I love the top, I love you better than a hog loves slop
 'Cause you're a big legged woman, with a short short miniskirt
 Promise me darlin', you'll never make me feel like dirt
@@ -1998,8 +1996,8 @@ Ashes to ashes and dust to dust, you mess with my woman, I'm gonna hurt you firs
 'Cause she's a big-legged woman, with a short short miniskirt
 Promise me darlin, you'll never make me feel like dirt
 
-##Freddie King
-##See See Baby
+###Freddie King
+###See See Baby
 See-see baby
 See what you have done, Lordy mama
 No need to worry
@@ -2023,8 +2021,8 @@ An the way you carries on
 Yes, you told me a lie
 Little girl, you know that's wrong.
 
-##Freddie King
-##I Love The Woman
+###Freddie King
+###I Love The Woman
 I love the woman
 And learned a lesson that I can't forget
 Yes!
@@ -2052,8 +2050,8 @@ Yes!
 She's mean an she's evil
 And now my life is in a solid mess.
 
-##Freddie King
-##Christmas Tears
+###Freddie King
+###Christmas Tears
 I hear sleigh bells ring
 I haven't heard a word from you in years
 I hear sleigh bells ringin'
@@ -2083,8 +2081,8 @@ And as I sit and think of the lonely years
 I can't help but cry, oh, Christmas tears
 Oh, Christmas tears
 
-##Freddie King
-##Woman Across The River
+###Freddie King
+###Woman Across The River
 Across the river a good woman cried
 All because a foolish man had lied
 She gave up all she had to show how much she cared
@@ -2105,8 +2103,8 @@ She said, "I don't even want to talk to you
 
 That woman across the river
 
-##Freddie King
-##Lowdown In Lodi
+###Freddie King
+###Lowdown In Lodi
 Just about a year ago, I set out on the road
 Seekin' my fame and fortune, lookin' for a pot of gold
 Things got bad, and things got worse, I guess you will
@@ -2132,8 +2130,8 @@ You know, I'd catch the next train back to where I live
 Oh Lord, stuck in Lodi again
 Oh Lord, I'm stuck in Lodi again
 
-##Freddie King
-##Same Old Blues
+###Freddie King
+###Same Old Blues
 Morning rain, keeps on falling
 Like the tears that fall from my eyes
 As I sit in my room staring out at the gloom
@@ -2154,8 +2152,8 @@ It's the rain, it's the same old blues, yeah
 Yes, it's the rain, it's the same old blues
 Yes, it's the rain, it's the same old blues
 
-##Freddie King
-##Goin' Down
+###Freddie King
+###Goin' Down
 'Cause I am goin' down
 All the way down
 Well hey there, Father, there is just one other thing
@@ -2199,8 +2197,8 @@ All the way down
 I'm going down
 All the way down
 
-##Freddie King
-##My Feeling For The Blues
+###Freddie King
+###My Feeling For The Blues
 I know you heard about the blues
 But I would like to give you
 My feeling of the blues
@@ -2210,8 +2208,8 @@ And listen to me
 I'll give you my feeling of the blues
 Because I think I got it
 
-##Albert King
-##Born Under A Bad Sign
+###Albert King
+###Born Under A Bad Sign
 Born under a bad sign
 Been down since I began to crawl
 If it wasn't for bad luck, you know I wouldn't have no luck at all
@@ -2241,8 +2239,8 @@ If it wasn't for bad luck, I wouldn't have no luck at all
 Yeah, my bad luck boy
 Been havin' bad luck all of my days, yes
 
-##Albert King
-##Cross Cut Saw
+###Albert King
+###Cross Cut Saw
 I'm a cross cut saw, just drag me 'cross your log
 I'm a cross cut saw, just drag me across your log
 I cut your wood so easy for you, you can't help but say 'Hot dog!'
@@ -2260,8 +2258,8 @@ Last girl I cut the wood for, want me back again
 I'm a cross cut saw, just drag me 'cross your log
 I cut your wood so easy for you, you can't help but say 'Hot dog!'
 
-##Albert King
-##The Very Thought Of You
+###Albert King
+###The Very Thought Of You
 The very thought of you
 And I forget to do
 The little ordinary things
@@ -2282,8 +2280,8 @@ Your eyes in stars above
 It's just the thought of you
 The very thought of you, my love
 
-##Albert King
-##I'll Play The Blues For You
+###Albert King
+###I'll Play The Blues For You
 If you're down and out and you feel real hurt
 Come on over to the place where I live
 And all your loneliness I'll try to soothe
@@ -2299,8 +2297,8 @@ I play the blues for you on my guitar
 All your loneliness I'll try to soothe
 I 'll play the blues for you
 
-##Albert King
-##Don't Throw Your Love On Me So Strong
+###Albert King
+###Don't Throw Your Love On Me So Strong
 Hey baby,
 Don`t throw your love on me so strong.
 
@@ -2331,8 +2329,8 @@ The whole world over
 For me
 And I`ll be hard to find.
 
-##Albert King
-##Laundromat Blues
+###Albert King
+###Laundromat Blues
 You been meetin' your man, baby
 Down at the local laundromat
 I say, you been meetin' your man, baby
@@ -2362,8 +2360,8 @@ But things look bad for you
 The laundry's gonna trap you, darlin'
 An' one more, one more dress will do
 
-##Albert King
-##Oh, Pretty Woman
+###Albert King
+###Oh, Pretty Woman
 Oh pretty woman she's the rising sun
 Says all your cheap paint and powder ain't gonna help you none
 She's a pretty woman right down to the bone
@@ -2391,8 +2389,8 @@ Pretty woman
 What's the matter with you
 Can't make you love me, no matter what I do
 
-##Albert King
-##Breakin' Up Someones Home
+###Albert King
+###Breakin' Up Someones Home
 Laying round home alone
 On a rainy night like this
 Starving for your love
@@ -2442,8 +2440,8 @@ Tired of being alone
 Feel like breaking up
 Somebody's home, yeah
 
-##Albert King
-##Cadillac Assembly Line
+###Albert King
+###Cadillac Assembly Line
 Goin' to Detroit, Michigan
 Girl, I can't take you
 Hey, I'm goin' to Detroit, Michigan
@@ -2476,8 +2474,8 @@ I'll put you on the Delta jet, hey hey
 I'm gonna send for you, darlin'
 Won't you come on home
 
-##Albert King
-##That's What The Blues Is About
+###Albert King
+###That's What The Blues Is About
 Oh you come home one eve'nin'
 To nothin' but the four walls
 And then ya find your phone been disconnected
@@ -2526,8 +2524,8 @@ That's what the blues is all about
 Well that's a hard pill to swallow, buddy
 Oh, when you find out what the blues is all about
 
-##Lightnin' Hopkins
-##Baby Please Don't Go
+###Lightnin' Hopkins
+###Baby Please Don't Go
 Baby, please don't go
 Baby, please don't go
 Baby, please don't go, down to New Orleans
@@ -2558,8 +2556,8 @@ You know your man down gone
 To the country farm
 With all the shackles on
 
-##Lightnin' Hopkins
-##Mojo Hand
+###Lightnin' Hopkins
+###Mojo Hand
 I'm goin' to Louisiana and get me a mojo hand
 I'm goin' to Louisiana and get me a mojo hand
 I'm gonna fix my woman so she can't have no other man
@@ -2587,8 +2585,8 @@ I'm gonna get me a mojo hand, I'm gonna bring it back home
 
 That's what I'm gonna do
 
-##Lightnin' Hopkins
-##Bring Me My Shotgun
+###Lightnin' Hopkins
+###Bring Me My Shotgun
 Woah, go bring me my shotgun
 Oh I'm gonna start shootin again
 Go bring me my shotgun
@@ -2612,8 +2610,8 @@ She said yes and you dare to try
 I said the only reason I don't shoot you little woman
 My double barrel shotgun, it just won't fire
 
-##Lightnin' Hopkins
-##Have You Ever Loved A Woman
+###Lightnin' Hopkins
+###Have You Ever Loved A Woman
 Have you ever loved a woman
 Man, better than you did yourself
 Have you ever loved a woman
@@ -2639,8 +2637,8 @@ Better quit your puttin' on and let poor Lightin' know
 Go ahead on and let me be
 Yeah sure, one more time boy, drop down)
 
-##Lightnin' Hopkins
-##Black Ghost Blues
+###Lightnin' Hopkins
+###Black Ghost Blues
 Black ghost, black ghost
 Please stay away from my door
 Black ghost, black ghost
@@ -2667,8 +2665,8 @@ Ain't nothin' else that a black ghost can do
 
 Black ghost blues
 
-##Lightnin' Hopkins
-##Jailhouse Blues
+###Lightnin' Hopkins
+###Jailhouse Blues
 Well I wouldn't mind staying in jail, but I've gotta stay there so long
 Well I wouldn't mind staying in jail, but I've gotta stay there so long
 You know it seem like all my friends, you know they done shook hands and gone
@@ -2681,8 +2679,8 @@ Hey mister jailer, will you please sir bring me the key
 
 I just want you to open the door, cause this ain't no place for me
 
-##Lightnin' Hopkins
-##My Starter Won't Start This Mornin'
+###Lightnin' Hopkins
+###My Starter Won't Start This Mornin'
 My starter won't start this mornin'
 Boy and my motor won't even turn
 My starter won't start this mornin'
@@ -2696,8 +2694,8 @@ Somethin' must be wrong with my little machine
 Mechanic say "Your car's all right like
 You just been burnin' bad gasoline
 
-##Lightnin' Hopkins
-##Automobile Blues
+###Lightnin' Hopkins
+###Automobile Blues
 I seen you drivin' 'round
 In your brand new automobile
 I see you drivin' 'round
@@ -2727,8 +2725,8 @@ Man, in your brand new automobile
 You're lookin' happy with your handsome driver
 Than in your automobile
 
-##Lightnin' Hopkins
-##Coffee Blues
+###Lightnin' Hopkins
+###Coffee Blues
 This is the 'Coffee Blues', I likes a certain brand
 Maxwell's House, it's good till the last drop
 Just like it says on the can, I used to have a girl
@@ -2760,8 +2758,8 @@ He laid his Bible down for his lovin'
 Ain't Maxwell House all right?
 Well, I'm just got to have my lovin'
 
-##Lightnin' Hopkins
-##Happy Blues For John Glenn
+###Lightnin' Hopkins
+###Happy Blues For John Glenn
 People, I was sittin' this mornin' with this on my mind
 Said there ain't no livin' man who gone around the world three times
 John Glenn done it, yes he did
@@ -2804,8 +2802,8 @@ That's what he had on his mind
 He didn't have no kid and he didn't have no digs
 He just had it on his mind flyin'
 
-##T-Bone Walker
-##They Call it Stormy Monday
+###T-Bone Walker
+###They Call it Stormy Monday
 They call it stormy Monday, but Tuesday's just as bad
 They call it stormy Monday, but Tuesday's just as bad
 Wednesday's worse, and Thursday's also sad
@@ -2818,8 +2816,8 @@ Lord have mercy, Lord have mercy on me
 Lord have mercy, my heart's in misery
 Crazy about my baby, yes, send her back to me
 
-##T-Bone Walker
-##Mean Old World
+###T-Bone Walker
+###Mean Old World
 This is a mean old world,
 Baby to live in by yourself.
 This is a mean old world,
@@ -2834,8 +2832,8 @@ And you know I smile to keep from cryin.
 That's to keep the public from knowin
 Just what I have on my mind.
 
-##T-Bone Walker
-##T-Bone Shuffle
+###T-Bone Walker
+###T-Bone Shuffle
 Let your hair down baby
 Let's have a natural ball
 Let your hair down baby
@@ -2857,8 +2855,8 @@ Fate's an awful thing
 You can't tell what might happen
 That's why I love to sing
 
-##T-Bone Walker
-##Bobby Sox Blues
+###T-Bone Walker
+###Bobby Sox Blues
 Bobby Sox, baby, I've got to let you go
 Bobby Sox, baby, I've got to let you go
 You've got a head full of nothin'
@@ -2882,8 +2880,8 @@ Yes, Bobby Sox, baby, I've got to let you go
 You've got a head full of nothin'
 But stage, screen and radio
 
-##T-Bone Walker
-##Alimony Blues
+###T-Bone Walker
+###Alimony Blues
 It's a cold-blooded world
 When a man has to pawn his shoes
 It's a cold-blooded world
@@ -2903,8 +2901,8 @@ An I sure got to pay some dues
 And if I run short of cash
 It's the road camp, I've got to choose.
 
-##T-Bone Walker
-##I Want A Little Girl
+###T-Bone Walker
+###I Want A Little Girl
 I want a little girl, call my own.
 She must be someone who's all alone now.
 Say, I want a little girl 
@@ -2927,8 +2925,8 @@ Her everything I got.
 I want a little girl 
 To fall in love with me.
 
-##T-Bone Walker
-##Love Is Just A Gamble
+###T-Bone Walker
+###Love Is Just A Gamble
 Love is Just a gamble.
 Say just what you wanna say.
 Love is Just a gamble.
@@ -2950,8 +2948,8 @@ Just when I thought I had it won.
 She told me goodbye pretty papa,
 I was only havin fun.
 
-##T-Bone Walker
-##The Hustle Is On
+###T-Bone Walker
+###The Hustle Is On
 Times is hard, baby and the hustle is really on
 Times is hard, baby, the hustle is really on
 Prices are high now darlin', and all the good jobs are gone
@@ -2968,25 +2966,8 @@ Times is hard baby and the hustle is really on
 Times is hard baby, the hustle is really on
 Prices are high now darlin', and all the good jobs are gone
 
-##T-Bone Walker
-##West Side Baby
-
- LyricWiki
-Help Out
-LyricWiki FAQ
-Help Index
-Help with Editing Pages
-The Community
-Stroll Around
-Search Lyrics
-Advanced
-On the Wiki
- Contribute  
-T-Bone Walker:West Side Baby Lyrics
-1,891,778PAGES ON
-THIS WIKI Add New Page  Edit    Talk0 	Share StarIconGreenLangIcon
-West Side Baby
-This song is by T-Bone Walker.
+###T-Bone Walker
+###West Side Baby
 
 I've got a west side baby
 She lives way across town
@@ -3021,8 +3002,8 @@ She lives way across town
 And when I'm with my baby
 I don't want a soul around
 
-##T-Bone Walker
-##Glamour Girl
+###T-Bone Walker
+###Glamour Girl
 Glamour girl, glamour girl.
 I'm cutting out on you
 You just a play type of baby.

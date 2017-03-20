@@ -1,4 +1,104 @@
 Genre,Artist,Title,UniqueLinesRatio
+Blues,B.B. King,The Thrill is Gone,0.7083333333333334
+Blues,B.B. King,Three O'Clock Blues,0.8571428571428571
+Blues,B.B. King,Rock Me Baby,1.0
+Blues,B.B. King,Everyday I Have The Blues,0.5882352941176471
+Blues,B.B.King,Let The Good Times Roll,0.7096774193548387
+Blues,B.B. King,Paying the Cost To Be The Boss,0.9375
+Blues,B.B. King,You Upset Me Baby,0.5
+Blues,B.B. King,Sweet Sixteen,0.8043478260869565
+Blues,B.B. King,Don't Answer The Door,0.7333333333333333
+Blues,B.B. King,Why I Sing the Blues,0.875
+Blues,Muddy Waters,Long Distance Call,0.7777777777777778
+Blues,Muddy Waters,Mannish Boy,0.6417910447761194
+Blues,Muddy Waters,I Am Your Hoochie Coochie Man,0.8048780487804879
+Blues,Muddy Waters,Rollin' And Tumblin',0.7333333333333333
+Blues,Muddy Waters,My Home Is The Delta,0.9565217391304348
+Blues,Muddy Waters,Rolling Stone,0.8666666666666667
+Blues,Muddy Waters,Trouble No More,0.7666666666666667
+Blues,Muddy Waters,Forty Days and Forty Nights,0.875
+Blues,Muddy Waters,Louisana Blues,0.8333333333333334
+Blues,Muddy Waters,Still A Fool,0.7333333333333333
+Blues,Robert Johnson,Cross Road Blues,0.9333333333333333
+Blues,Robert Johnson,Kindhearted Woman Blues,0.7692307692307693
+Blues,Robert Johnson,Hell Hound On My Trail,1.0
+Blues,Robert Johnson,Love In Vain,0.7692307692307693
+Blues,Robert Johnson,Come On In My Kitchen,0.6956521739130435
+Blues,Robert Johnson,Me And The Devil Blues,0.9230769230769231
+Blues,Robert Johnson,Ramblin' On My Mind,0.9230769230769231
+Blues,Robert Johnson,Terraplane Blues,0.9130434782608695
+Blues,Robert Johnson,Drunken Hearted Man,0.76
+Blues,Robert Johnson,Last Fair,0.84375
+Blues,Howlin’ Wolf,Spoonful,0.45161290322580644
+Blues,Howlin’ Wolf,Smokestack Lightnin',0.6333333333333333
+Blues,Howlin’ Wolf,The Red Rooster,0.625
+Blues,Howlin’ Wolf,I Asked For Water,0.75
+Blues,Howlin’ Wolf,Back Door Man,0.7272727272727273
+Blues,Howlin’ Wolf,Wang Dang Doodle,0.8
+Blues,Howlin’ Wolf,How Many More Years,0.7777777777777778
+Blues,Howlin’ Wolf,Goin' Down Slow,0.8695652173913043
+Blues,Howlin’ Wolf,Moanin' At Midnight,0.8571428571428571
+Blues,Howlin’ Wolf,Shake For Me,0.75
+Blues,John Lee Hooker,Boogie Chillen',1.0
+Blues,John Lee Hooker,Crawlin' King Snake,0.6428571428571429
+Blues,John Lee Hooker,Dimples,0.3333333333333333
+Blues,John Lee Hooker,I'm In The Mood,0.9090909090909091
+Blues,John Lee Hooker,|One Bourbon, One Scotch, One Beer|,0.7037037037037037
+Blues,John Lee Hooker,Hobo Blues,1.0
+Blues,John Lee Hooker,One Of These Days Things Gonna Change,0.5526315789473685
+Blues,John Lee Hooker,Baby Lee,0.75
+Blues,John Lee Hooker,Burnin' Hell,0.8620689655172413
+Blues,John Lee Hooker,Whiskey and Wimmen',0.9
+Blues,Buddy Guy,First Time I Met The Blues,1.0
+Blues,Buddy Guy,Damn Right I've Got the Blues,0.4782608695652174
+Blues,Buddy Guy,Stone Crazy,0.875
+Blues,Buddy Guy,Ain't No Sunshine,0.42424242424242425
+Blues,Buddy Guy,Feels Like Rain,0.72
+Blues,Buddy Guy,Wear You Out,0.6470588235294118
+Blues,Buddy Guy,Key Don't Fit,0.875
+Blues,Buddy Guy,One Room Country Shack,0.9393939393939394
+Blues,Buddy Guy,My Time After A While,1.0
+Blues,Buddy Guy,Every Girl I See,0.6551724137931034
+Blues,Freddie King,Hide Away,0.41025641025641024
+Blues,Freddie King,Big Legged Woman,0.75
+Blues,Freddie King,See See Baby,0.85
+Blues,Freddie King,I Love The Woman,0.7272727272727273
+Blues,Freddie King,Christmas Tears,0.875
+Blues,Freddie King,Woman Across The River,0.8666666666666667
+Blues,Freddie King,Lowdown In Lodi,0.8571428571428571
+Blues,Freddie King,Same Old Blues,0.9333333333333333
+Blues,Freddie King,Goin' Down,0.8378378378378378
+Blues,Freddie King,My Feeling For The Blues,1.0
+Blues,Albert King,Born Under A Bad Sign,0.782608695652174
+Blues,Albert King,Cross Cut Saw,0.6666666666666666
+Blues,Albert King,The Very Thought Of You,1.0
+Blues,Albert King,I'll Play The Blues For You,0.9166666666666666
+Blues,Albert King,Don't Throw Your Love On Me So Strong,0.64
+Blues,Albert King,Laundromat Blues,0.9166666666666666
+Blues,Albert King,|Oh, Pretty Woman|,0.7142857142857143
+Blues,Albert King,Breakin' Up Someones Home,0.8157894736842105
+Blues,Albert King,Cadillac Assembly Line,0.75
+Blues,Albert King,That's What The Blues Is About,0.9487179487179487
+Blues,Lightnin' Hopkins,Baby Please Don't Go,0.4827586206896552
+Blues,Lightnin' Hopkins,Mojo Hand,0.85
+Blues,Lightnin' Hopkins,Bring Me My Shotgun,0.95
+Blues,Lightnin' Hopkins,Have You Ever Loved A Woman,0.9545454545454546
+Blues,Lightnin' Hopkins,Black Ghost Blues,0.8421052631578947
+Blues,Lightnin' Hopkins,Jailhouse Blues,0.7777777777777778
+Blues,Lightnin' Hopkins,My Starter Won't Start This Mornin',0.75
+Blues,Lightnin' Hopkins,Automobile Blues,0.76
+Blues,Lightnin' Hopkins,Coffee Blues,0.84
+Blues,Lightnin' Hopkins,Happy Blues For John Glenn,1.0
+Blues,T-Bone Walker,They Call it Stormy Monday,0.8888888888888888
+Blues,T-Bone Walker,Mean Old World,0.8333333333333334
+Blues,T-Bone Walker,T-Bone Shuffle,0.7222222222222222
+Blues,T-Bone Walker,Bobby Sox Blues,0.6666666666666666
+Blues,T-Bone Walker,Alimony Blues,0.6666666666666666
+Blues,T-Bone Walker,I Want A Little Girl,0.9444444444444444
+Blues,T-Bone Walker,Love Is Just A Gamble,0.7222222222222222
+Blues,T-Bone Walker,The Hustle Is On,0.8333333333333334
+Blues,T-Bone Walker,West Side Baby,0.6538461538461539
+Blues,T-Bone Walker,Glamour Girl,0.6923076923076923
 Country,Tammy Wynette,Don't Touch Me,0.7272727272727273
 Country,Tammy Wynette,Fuzzy Wuzzy Ego,0.8095238095238095
 Country,Tammy Wynette,D-I-V-O-R-C-E,0.8
@@ -299,3 +399,43 @@ Metal,Death,Nothing is Everything,0.875
 Metal,Death,Mentally Blind,0.7083333333333334
 Metal,Death,Sacred Serenity,0.6666666666666666
 Metal,Death,Without Judgement,0.6428571428571429
+Rap,Eminem,Rap God,0.9802955665024631
+Rap,Eminem,Lose Yourself,0.7659574468085106
+Rap,Eminem,Not Afraid,0.7419354838709677
+Rap,Eminem,Without Me,0.7972972972972973
+Rap,Eminem,When IÂ´m gone,0.7473684210526316
+Rap,Eminem,The Real Slim Shady,0.7961165048543689
+Rap,Eminem,Mockingbird,0.9292929292929293
+Rap,Eminem,No Love,0.8275862068965517
+Rap,Eminem,Space Bound,0.8351648351648352
+Rap,Eminem,Cleanin Out My Closet,0.7058823529411765
+Rap,Snoop Dogg,Snoop D.O. Double G,0.8028169014084507
+Rap,Snoop Dogg,Doggy Dogg World,0.9285714285714286
+Rap,Snoop Dogg,Gin And Juice,0.847457627118644
+Rap,Snoop Dogg,Snoop's Upside Your Head,0.8738738738738738
+Rap,Snoop Dogg,Feel About Snoop,0.717391304347826
+Rap,Snoop Dogg,Snoop Bounce,0.7105263157894737
+Rap,Snoop Dogg,Still D.R.E.,0.8051948051948052
+Rap,Snoop Dogg,Lodi Dodi,1.0
+Rap,Snoop Dogg,Drop It Like It's Hot,0.5412844036697247
+Rap,Snoop Dogg,Snoop Dogg,0.5934065934065934
+Rap,50 Cent,Candy Shop,0.6388888888888888
+Rap,50 Cent,This is 50,0.625
+Rap,50 Cent,Clue / 50,1.0
+Rap,50 Cent,P.I.M.P.,0.735632183908046
+Rap,50 Cent,Planet 50,0.86
+Rap,50 Cent,50 Bars,0.9661016949152542
+Rap,50 Cent,Just A Lil' Bit,0.7105263157894737
+Rap,50 Cent,My Life,0.7471264367816092
+Rap,50 Cent,Best Friend,0.639344262295082
+Rap,50 Cent,Window Shopper,0.6833333333333333
+Rap,Jay-Z,Song Cry,0.7375
+Rap,Jay-z,Where Have You Been,0.8990825688073395
+Rap,Jay-Z,Renegade,0.8571428571428571
+Rap,Jay-Z,Can I Get A...,0.6666666666666666
+Rap,Jay-Z,Big Pimpin',0.8135593220338984
+Rap,Jay-Z,U Don't Know,0.9285714285714286
+Rap,Jay-Z,Niggas In Paris,0.8333333333333334
+Rap,Jay-Z,Drunk In Love,0.8
+Rap,Jay-Z,Jockin' Jay-Z,0.65
+Rap,Jay-Z,99 Problems,0.7142857142857143
